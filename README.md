@@ -1,6 +1,6 @@
-# 🎮 Gustavo Henrique
+# 🎮 Gustavo Henrique dos Santos
 
-**`Desenvolvedor de jogos`**
+**`Desenvolvedor em C/C#/Python | Foco em Lógica, Algoritmos e Game Development`**
 
 Meu nome é Gustavo Henrique dos Santos, tenho 18 anos e sou de São Paulo. Terminei o ensino médio com o curso de técnico em informática. Atualmente estou estudando Sistemas de Informação na Universidade de São Paulo (USP).
 
@@ -31,6 +31,13 @@ Meu nome é Gustavo Henrique dos Santos, tenho 18 anos e sou de São Paulo. Term
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/><img 
+    align="left" 
+    alt="CPlusPlus" 
+    title="CPlusPlus"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 <img 
     align="left" 
@@ -39,6 +46,13 @@ Meu nome é Gustavo Henrique dos Santos, tenho 18 anos e sou de São Paulo. Term
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/><img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
@@ -53,19 +67,20 @@ Meu nome é Gustavo Henrique dos Santos, tenho 18 anos e sou de São Paulo. Term
 ### 🤖 Tecnologias
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="VsCode" 
+    title="VsCode"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 /><img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="VisualStudio" 
+    title="VisualStudio"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
-/><img 
+/>
+<img 
     align="left" 
     alt="Git" 
     title="Git"
@@ -74,13 +89,40 @@ Meu nome é Gustavo Henrique dos Santos, tenho 18 anos e sou de São Paulo. Term
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 /><img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="AndroidStudio" 
+    title="AndroidStudio"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu.eps" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+/><img 
+    align="left" 
+    alt="Ubuntu" 
+    title="Ubuntu"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
+/><img 
+    align="left" 
+    alt="Windows" 
+    title="Windows"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
+/><img 
+    align="left" 
+    alt="Unity" 
+    title="Unity"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
+/><img 
+    align="left" 
+    alt="Godot" 
+    title="Godot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" 
 />
-
 <br/>
 <br/>
 

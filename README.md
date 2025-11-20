@@ -31,13 +31,6 @@ Meu nome é Gustavo Henrique dos Santos, tenho 18 anos e sou de São Paulo. Term
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/><img 
-    align="left" 
-    alt="CPlusPlus" 
-    title="CPlusPlus"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 <img 
     align="left" 
